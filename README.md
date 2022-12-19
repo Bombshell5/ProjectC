@@ -2,7 +2,7 @@
 
 This project is me learning c. I did a digital clock using functional c. The clock will take a time and continue calculating. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TLmAe1VrZVo)
 
 # Development Environment
 I'm using xcode and multiple c libraries. 
